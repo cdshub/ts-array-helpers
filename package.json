@@ -1,0 +1,23 @@
+{
+  "name": "vnu-js-array-helper",
+  "version": "0.0.1",
+  "description": "Some array helper function",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickyvnu/js-array-helpers.git"
+  },
+  "author": "Ricky Do",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rickyvnu/js-array-helpers/issues"
+  },
+  "homepage": "https://github.com/rickyvnu/js-array-helpers#readme"
+}
