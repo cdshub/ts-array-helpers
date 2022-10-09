@@ -1,7 +1,7 @@
 {
-  "name": "vnu-js-array-helper",
-  "version": "0.0.1",
-  "description": "Some array helper function",
+  "name": "vnu-ts-array-helper",
+  "version": "0.1.1",
+  "description": "Some array helpers function",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
